@@ -59,7 +59,7 @@ javac ChatClient.java
 
 ---
 
-###Let me know if you want a version with:
+Let me know if you want a version with:
 - GUI usage
 - demo screenshots
 - or command aliases (like `.bat` files for faster testing).
